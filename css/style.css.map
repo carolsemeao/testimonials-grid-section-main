@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.css"}
+{"version":3,"sources":["src/_typography.scss","src/_variables.scss","style.css"],"names":[],"mappings":"AAAA;EAEE,gDCKQ;EDJR,iBCMU;ACNZ","file":"style.css"}
